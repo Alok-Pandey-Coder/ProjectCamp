@@ -1,67 +1,75 @@
-# Project Camp
+# ProjectCamp API Documentation
 
 ## Overview
+This document provides a comprehensive overview of the backend API for ProjectCamp, aligning with the Product Requirements Document (PRD) specifications.
 
-Project Camp is an innovative platform designed to enhance project management for teams of all sizes. This project utilizes a range of modern technologies to provide a seamless experience for users, ensuring efficiency and productivity.
+## Target Users
+The target users for this API include:
+- Mobile application developers
+- Web application developers
+- Data analysts and data scientists
 
-## Features
+## Core Features
+- User authentication and profile management
+- Project creation and collaboration tools
+- Task assignment and tracking
+- Real-time notifications
+- Reporting and analytics features
 
-- **User-Friendly Interface**: Intuitive design for easy navigation.
-- **Real-Time Collaboration**: Enable teams to work together effectively with real-time updates and functionalities.
-- **Customizable Workflows**: Tailor project management processes that best fit your team’s unique needs.
-- **Performance Analytics**: Track progress with in-depth analytics to foster informed decision-making.
-
-## Technology Stack
-
-- **Frontend**: React, Redux, CSS
-- **Backend**: Node.js, Express.js
-- **Database**: MongoDB
-- **Deployment**: Docker, Heroku
-
-## Getting Started
-
-To get a local copy up and running, follow these simple steps:
-
-### Prerequisites
-
+## Tech Stack
 - Node.js
+- Express.js
 - MongoDB
+- JWT (JSON Web Tokens) for authentication
+- Docker for containerization
 
-### Installation
+## Quick Start
+1. Clone the repository: `git clone https://github.com/Alok-Pandey-Coder/ProjectCamp.git`
+2. Navigate to the project folder: `cd ProjectCamp`
+3. Install dependencies: `npm install`
+4. Start the server: `npm start`
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/Alok-Pandey-Coder/ProjectCamp.git
-   ```
+## API Endpoints
+- **GET /api/users** - Retrieve all users
+- **POST /api/users** - Create a new user
+- **GET /api/projects** - Retrieve all projects
+- **POST /api/projects** - Create a new project
 
-2. Install npm packages:
-   ```bash
-   cd ProjectCamp
-   npm install
-   ```
+## Authentication
+All API requests require authentication via JWT. Obtain a token by logging in with valid user credentials, and include the token in the `Authorization` header for protected routes.
 
-3. Start the server:
-   ```bash
-   npm start
-   ```
+## Permission Matrix
+| Role          | Endpoint                  | Permission         |
+|---------------|---------------------------|---------------------|
+| Admin         | /api/users                | Read, Write, Delete |
+| Regular User  | /api/projects             | Read, Write         |
+| Guest         | /api/users                | Read Only           |
 
-Your project should be running on `http://localhost:3000`.
+## Project Structure
+```
+ProjectCamp/
+│
+├── src/
+│   ├── controllers/
+│   ├── models/
+│   ├── routes/
+│   └── middleware/
+│
+├── config/
+└── tests/
+```
+
+## Security
+Ensure to use HTTPS for all communications. Sensitive data should never be logged. All user passwords must be hashed before storing in the database.
+
+## Installation
+1. Clone the repository and navigate to the folder.
+2. Run `npm install` to install all dependencies.
+3. Create a `.env` file from the `.env.example` and fill in the required environment variables.
+4. Start the application.
 
 ## Contributing
+Contributions are welcome! Please submit a pull request with your changes.
 
-Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**. 
-
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-## License
-
-Distributed under the MIT License. See `LICENSE` for more information.
-
-## Acknowledgements
-
-- Thanks to all contributors that make this project possible!
-- Inspired by other project management tools and platforms.
+## Support
+Please contact support@example.com for any questions or issues related to the API documentation.
