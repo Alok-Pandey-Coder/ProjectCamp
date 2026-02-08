@@ -1,0 +1,401 @@
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on the port: 8000","timestamp":"2026-02-07T07:02:22.423Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on the port: 8000","timestamp":"2026-02-07T07:02:22.461Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on the port: 8000","timestamp":"2026-02-07T07:02:33.643Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on the port: 8000","timestamp":"2026-02-07T07:02:33.647Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on the port: 8000","timestamp":"2026-02-07T07:03:55.076Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on the port: 8000","timestamp":"2026-02-07T07:03:55.076Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"GET\",\"url\":\"/api/v1/projects/\",\"status\":\"200\",\"responseTime\":\"229.057\"}","timestamp":"2026-02-07T07:04:03.707Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/api/v1/projects/\",\"status\":\"200\",\"responseTime\":\"186.169\"}","timestamp":"2026-02-07T07:04:53.822Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"GET\",\"url\":\"/api/v1/projects/\",\"status\":\"200\",\"responseTime\":\"150.902\"}","timestamp":"2026-02-07T07:05:08.973Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on the port: 8000","timestamp":"2026-02-07T07:11:27.572Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on the port: 8000","timestamp":"2026-02-07T07:11:27.586Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on the port: 8000","timestamp":"2026-02-07T07:13:21.270Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on the port: 8000","timestamp":"2026-02-07T07:13:21.273Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on the port: 8000","timestamp":"2026-02-07T07:16:26.637Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on the port: 8000","timestamp":"2026-02-07T07:16:26.645Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on the port: 8000","timestamp":"2026-02-07T07:16:33.020Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on the port: 8000","timestamp":"2026-02-07T07:16:33.041Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on the port: 8000","timestamp":"2026-02-07T07:16:50.016Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on the port: 8000","timestamp":"2026-02-07T07:16:50.031Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on the port: 8000","timestamp":"2026-02-07T07:16:58.141Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on the port: 8000","timestamp":"2026-02-07T07:16:58.184Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on the port: 8000","timestamp":"2026-02-07T07:17:03.951Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on the port: 8000","timestamp":"2026-02-07T07:17:03.975Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on the port: 8000","timestamp":"2026-02-07T07:17:07.519Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on the port: 8000","timestamp":"2026-02-07T07:17:07.525Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/api/v1/projects/\",\"status\":\"500\",\"responseTime\":\"131.410\"}","timestamp":"2026-02-07T07:18:26.712Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/api/v1/projects/\",\"status\":\"200\",\"responseTime\":\"242.812\"}","timestamp":"2026-02-07T07:19:51.638Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/api/v1/projects/\",\"status\":\"200\",\"responseTime\":\"192.505\"}","timestamp":"2026-02-07T07:20:32.376Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"GET\",\"url\":\"/api/v1/projects/\",\"status\":\"200\",\"responseTime\":\"147.361\"}","timestamp":"2026-02-07T07:20:48.193Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on the port: 8000","timestamp":"2026-02-07T07:52:17.260Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on the port: 8000","timestamp":"2026-02-07T07:52:17.278Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on the port: 8000","timestamp":"2026-02-07T07:52:18.885Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on the port: 8000","timestamp":"2026-02-07T07:52:18.921Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on the port: 8000","timestamp":"2026-02-07T07:52:23.541Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on the port: 8000","timestamp":"2026-02-07T07:52:23.547Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on the port: 8000","timestamp":"2026-02-07T07:52:27.139Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on the port: 8000","timestamp":"2026-02-07T07:52:27.175Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on the port: 8000","timestamp":"2026-02-07T07:52:30.447Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on the port: 8000","timestamp":"2026-02-07T07:52:30.447Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on the port: 8000","timestamp":"2026-02-07T07:52:35.548Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on the port: 8000","timestamp":"2026-02-07T07:52:35.555Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on the port: 8000","timestamp":"2026-02-07T07:53:47.855Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on the port: 8000","timestamp":"2026-02-07T07:53:47.899Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on the port: 8000","timestamp":"2026-02-07T07:53:52.648Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on the port: 8000","timestamp":"2026-02-07T07:53:52.677Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on the port: 8000","timestamp":"2026-02-07T07:54:09.598Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on the port: 8000","timestamp":"2026-02-07T07:54:09.604Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on the port: 8000","timestamp":"2026-02-07T07:54:15.927Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on the port: 8000","timestamp":"2026-02-07T07:54:15.942Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on the port: 8000","timestamp":"2026-02-07T07:54:19.440Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on the port: 8000","timestamp":"2026-02-07T07:54:19.453Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on the port: 8000","timestamp":"2026-02-07T07:54:24.898Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on the port: 8000","timestamp":"2026-02-07T07:54:24.904Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on the port: 8000","timestamp":"2026-02-07T07:54:29.828Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on the port: 8000","timestamp":"2026-02-07T07:54:29.833Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on the port: 8000","timestamp":"2026-02-07T07:54:31.862Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on the port: 8000","timestamp":"2026-02-07T07:54:32.151Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on the port: 8000","timestamp":"2026-02-07T07:54:59.556Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on the port: 8000","timestamp":"2026-02-07T07:54:59.562Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on the port: 8000","timestamp":"2026-02-07T07:55:19.236Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on the port: 8000","timestamp":"2026-02-07T07:55:19.273Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on the port: 8000","timestamp":"2026-02-07T07:55:22.858Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on the port: 8000","timestamp":"2026-02-07T07:55:22.896Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on the port: 8000","timestamp":"2026-02-07T07:55:26.885Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on the port: 8000","timestamp":"2026-02-07T07:55:26.899Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on the port: 8000","timestamp":"2026-02-07T07:55:36.442Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on the port: 8000","timestamp":"2026-02-07T07:55:36.462Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on the port: 8000","timestamp":"2026-02-07T07:55:39.190Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on the port: 8000","timestamp":"2026-02-07T07:55:39.195Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on the port: 8000","timestamp":"2026-02-07T07:56:43.746Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on the port: 8000","timestamp":"2026-02-07T07:56:43.789Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on the port: 8000","timestamp":"2026-02-07T07:56:49.251Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on the port: 8000","timestamp":"2026-02-07T07:56:49.251Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on the port: 8000","timestamp":"2026-02-07T07:56:54.439Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on the port: 8000","timestamp":"2026-02-07T07:56:54.440Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on the port: 8000","timestamp":"2026-02-07T07:57:01.895Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on the port: 8000","timestamp":"2026-02-07T07:57:01.909Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on the port: 8000","timestamp":"2026-02-07T07:57:57.709Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on the port: 8000","timestamp":"2026-02-07T07:57:57.725Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"DELETE\",\"url\":\"/api/v1/projects/6986cca8507ce47cfcd83ad8/members/6986cb52507ce47cfcd83abc\",\"status\":\"404\",\"responseTime\":\"127.000\"}","timestamp":"2026-02-07T08:00:15.188Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on the port: 8000","timestamp":"2026-02-07T08:06:09.403Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on the port: 8000","timestamp":"2026-02-07T08:06:09.405Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on the port: 8000","timestamp":"2026-02-07T08:06:13.978Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on the port: 8000","timestamp":"2026-02-07T08:06:14.027Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on the port: 8000","timestamp":"2026-02-07T08:06:19.523Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on the port: 8000","timestamp":"2026-02-07T08:06:19.577Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on the port: 8000","timestamp":"2026-02-07T08:16:35.274Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on the port: 8000","timestamp":"2026-02-07T08:16:35.291Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on the port: 8000","timestamp":"2026-02-07T08:16:47.596Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on the port: 8000","timestamp":"2026-02-07T08:16:47.721Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on the port: 8000","timestamp":"2026-02-07T08:19:10.317Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on the port: 8000","timestamp":"2026-02-07T08:19:10.332Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on the port: 8000","timestamp":"2026-02-07T08:19:31.297Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on the port: 8000","timestamp":"2026-02-07T08:19:31.314Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on the port: 8000","timestamp":"2026-02-07T08:19:37.893Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on the port: 8000","timestamp":"2026-02-07T08:19:37.911Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on the port: 8000","timestamp":"2026-02-07T08:20:39.689Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on the port: 8000","timestamp":"2026-02-07T08:20:39.708Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/api/v1/auth/register\",\"status\":\"201\",\"responseTime\":\"5395.735\"}","timestamp":"2026-02-07T08:22:50.837Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/api/v1/auth/register\",\"status\":\"201\",\"responseTime\":\"4747.658\"}","timestamp":"2026-02-07T08:25:01.159Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/api/v1/auth/register\",\"status\":\"201\",\"responseTime\":\"4868.622\"}","timestamp":"2026-02-07T08:25:39.476Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/api/v1/auth/register\",\"status\":\"201\",\"responseTime\":\"5540.632\"}","timestamp":"2026-02-07T08:26:36.773Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/api/v1/auth/register\",\"status\":\"201\",\"responseTime\":\"4964.016\"}","timestamp":"2026-02-07T08:27:15.157Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/api/v1/auth/login\",\"status\":\"200\",\"responseTime\":\"768.989\"}","timestamp":"2026-02-07T08:27:22.346Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/api/v1/projects/\",\"status\":\"200\",\"responseTime\":\"294.824\"}","timestamp":"2026-02-07T08:29:12.380Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/api/v1/tasks/6986f7d8aa34b0f1c720d8de\",\"status\":\"200\",\"responseTime\":\"121.738\"}","timestamp":"2026-02-07T08:32:03.885Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on the port: 8000","timestamp":"2026-02-07T08:32:52.803Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on the port: 8000","timestamp":"2026-02-07T08:32:52.809Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"GET\",\"url\":\"/api/v1/tasks/6986f7d8aa34b0f1c720d8de/t/6986f883aa34b0f1c720d8e2\",\"status\":\"200\",\"responseTime\":\"135.708\"}","timestamp":"2026-02-07T08:34:28.890Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on the port: 8000","timestamp":"2026-02-07T08:36:03.405Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on the port: 8000","timestamp":"2026-02-07T08:36:03.433Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on the port: 8000","timestamp":"2026-02-07T08:36:32.935Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on the port: 8000","timestamp":"2026-02-07T08:36:32.940Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"PUT\",\"url\":\"/api/v1/tasks/6986f7d8aa34b0f1c720d8de/t/6986f883aa34b0f1c720d8e2\",\"status\":\"200\",\"responseTime\":\"140.712\"}","timestamp":"2026-02-07T08:38:53.022Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on the port: 8000","timestamp":"2026-02-07T08:39:40.476Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on the port: 8000","timestamp":"2026-02-07T08:39:40.492Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"DELETE\",\"url\":\"/api/v1/tasks/6986f7d8aa34b0f1c720d8de/t/6986f883aa34b0f1c720d8e2\",\"status\":\"500\",\"responseTime\":\"125.435\"}","timestamp":"2026-02-07T08:40:55.948Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"DELETE\",\"url\":\"/api/v1/tasks/6986f7d8aa34b0f1c720d8de/t/6986f883aa34b0f1c720d8e2\",\"status\":\"200\",\"responseTime\":\"84.504\"}","timestamp":"2026-02-07T08:41:03.946Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on the port: 8000","timestamp":"2026-02-07T08:41:30.177Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on the port: 8000","timestamp":"2026-02-07T08:41:30.196Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on the port: 8000","timestamp":"2026-02-07T08:43:30.937Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on the port: 8000","timestamp":"2026-02-07T08:43:30.964Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on the port: 8000","timestamp":"2026-02-07T08:48:50.316Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on the port: 8000","timestamp":"2026-02-07T08:48:52.350Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on the port: 8000","timestamp":"2026-02-07T08:48:52.358Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/api/v1/tasks/6986f7d8aa34b0f1c720d8de\",\"status\":\"200\",\"responseTime\":\"136.160\"}","timestamp":"2026-02-07T08:48:58.036Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/api/v1/tasks/6986f7d8aa34b0f1c720d8de/t/6986fc7937ef0ea2dfc3e831/subtasks\",\"status\":\"500\",\"responseTime\":\"124.225\"}","timestamp":"2026-02-07T08:50:18.488Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/api/v1/tasks/6986f7d8aa34b0f1c720d8de/t/6986fc7937ef0ea2dfc3e831/subtasks\",\"status\":\"500\",\"responseTime\":\"413.674\"}","timestamp":"2026-02-07T08:52:14.158Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on the port: 8000","timestamp":"2026-02-07T08:53:14.913Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on the port: 8000","timestamp":"2026-02-07T08:53:14.926Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on the port: 8000","timestamp":"2026-02-07T08:53:17.466Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on the port: 8000","timestamp":"2026-02-07T08:53:17.465Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on the port: 8000","timestamp":"2026-02-07T08:53:21.419Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on the port: 8000","timestamp":"2026-02-07T08:53:21.437Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/api/v1/tasks/6986f7d8aa34b0f1c720d8de/t/6986fc7937ef0ea2dfc3e831/subtasks\",\"status\":\"500\",\"responseTime\":\"160.470\"}","timestamp":"2026-02-07T08:53:42.144Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on the port: 8000","timestamp":"2026-02-07T08:55:01.126Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on the port: 8000","timestamp":"2026-02-07T08:55:01.154Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/api/v1/tasks/6986f7d8aa34b0f1c720d8de/t/6986fc7937ef0ea2dfc3e831/subtasks\",\"status\":\"200\",\"responseTime\":\"167.582\"}","timestamp":"2026-02-07T08:55:08.337Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on the port: 8000","timestamp":"2026-02-07T08:56:06.487Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on the port: 8000","timestamp":"2026-02-07T08:56:06.495Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on the port: 8000","timestamp":"2026-02-07T08:56:15.496Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on the port: 8000","timestamp":"2026-02-07T08:56:15.496Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on the port: 8000","timestamp":"2026-02-07T08:56:26.513Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on the port: 8000","timestamp":"2026-02-07T08:56:26.559Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on the port: 8000","timestamp":"2026-02-07T08:56:28.417Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on the port: 8000","timestamp":"2026-02-07T08:56:28.429Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on the port: 8000","timestamp":"2026-02-07T08:56:54.364Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on the port: 8000","timestamp":"2026-02-07T08:56:54.365Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on the port: 8000","timestamp":"2026-02-07T08:56:56.583Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on the port: 8000","timestamp":"2026-02-07T08:56:56.588Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on the port: 8000","timestamp":"2026-02-07T08:59:39.338Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on the port: 8000","timestamp":"2026-02-07T08:59:39.940Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on the port: 8000","timestamp":"2026-02-07T08:59:44.739Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on the port: 8000","timestamp":"2026-02-07T08:59:44.741Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on the port: 8000","timestamp":"2026-02-07T08:59:49.891Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on the port: 8000","timestamp":"2026-02-07T08:59:49.908Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on the port: 8000","timestamp":"2026-02-07T08:59:56.084Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on the port: 8000","timestamp":"2026-02-07T08:59:56.090Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on the port: 8000","timestamp":"2026-02-07T08:59:58.274Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on the port: 8000","timestamp":"2026-02-07T08:59:58.278Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on the port: 8000","timestamp":"2026-02-07T09:00:55.622Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on the port: 8000","timestamp":"2026-02-07T09:00:55.691Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on the port: 8000","timestamp":"2026-02-07T09:01:01.538Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on the port: 8000","timestamp":"2026-02-07T09:01:01.589Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on the port: 8000","timestamp":"2026-02-07T09:01:36.587Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on the port: 8000","timestamp":"2026-02-07T09:01:36.629Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on the port: 8000","timestamp":"2026-02-07T09:01:52.982Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on the port: 8000","timestamp":"2026-02-07T09:01:52.998Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on the port: 8000","timestamp":"2026-02-07T09:02:07.579Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on the port: 8000","timestamp":"2026-02-07T09:02:07.621Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on the port: 8000","timestamp":"2026-02-07T09:02:09.307Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on the port: 8000","timestamp":"2026-02-07T09:02:09.345Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on the port: 8000","timestamp":"2026-02-07T09:02:15.725Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on the port: 8000","timestamp":"2026-02-07T09:02:15.765Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on the port: 8000","timestamp":"2026-02-07T09:02:21.142Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on the port: 8000","timestamp":"2026-02-07T09:02:21.165Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on the port: 8000","timestamp":"2026-02-07T09:02:24.855Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on the port: 8000","timestamp":"2026-02-07T09:02:24.883Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on the port: 8000","timestamp":"2026-02-07T09:03:02.475Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on the port: 8000","timestamp":"2026-02-07T09:03:02.474Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on the port: 8000","timestamp":"2026-02-07T09:03:11.515Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on the port: 8000","timestamp":"2026-02-07T09:03:11.530Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on the port: 8000","timestamp":"2026-02-07T09:03:29.394Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on the port: 8000","timestamp":"2026-02-07T09:03:29.424Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on the port: 8000","timestamp":"2026-02-07T09:03:31.733Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on the port: 8000","timestamp":"2026-02-07T09:03:31.739Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on the port: 8000","timestamp":"2026-02-07T09:03:40.522Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on the port: 8000","timestamp":"2026-02-07T09:03:40.545Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on the port: 8000","timestamp":"2026-02-07T09:04:14.248Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on the port: 8000","timestamp":"2026-02-07T09:04:14.252Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on the port: 8000","timestamp":"2026-02-07T09:04:23.340Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on the port: 8000","timestamp":"2026-02-07T09:04:23.362Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on the port: 8000","timestamp":"2026-02-07T09:05:54.836Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on the port: 8000","timestamp":"2026-02-07T09:05:54.850Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on the port: 8000","timestamp":"2026-02-07T09:06:00.246Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on the port: 8000","timestamp":"2026-02-07T09:06:00.286Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on the port: 8000","timestamp":"2026-02-07T09:06:05.294Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on the port: 8000","timestamp":"2026-02-07T09:06:05.314Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on the port: 8000","timestamp":"2026-02-07T09:06:07.034Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on the port: 8000","timestamp":"2026-02-07T09:06:07.056Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on the port: 8000","timestamp":"2026-02-07T09:06:11.792Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on the port: 8000","timestamp":"2026-02-07T09:06:11.812Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on the port: 8000","timestamp":"2026-02-07T09:06:14.392Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on the port: 8000","timestamp":"2026-02-07T09:06:14.392Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on the port: 8000","timestamp":"2026-02-07T09:06:21.643Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on the port: 8000","timestamp":"2026-02-07T09:06:22.555Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on the port: 8000","timestamp":"2026-02-07T09:06:27.664Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on the port: 8000","timestamp":"2026-02-07T09:06:27.666Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on the port: 8000","timestamp":"2026-02-07T09:06:29.480Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on the port: 8000","timestamp":"2026-02-07T09:06:29.513Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on the port: 8000","timestamp":"2026-02-07T09:07:30.451Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on the port: 8000","timestamp":"2026-02-07T09:07:30.588Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on the port: 8000","timestamp":"2026-02-07T09:07:38.100Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on the port: 8000","timestamp":"2026-02-07T09:07:38.112Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on the port: 8000","timestamp":"2026-02-07T09:07:44.422Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on the port: 8000","timestamp":"2026-02-07T09:07:44.800Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on the port: 8000","timestamp":"2026-02-07T09:08:02.015Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on the port: 8000","timestamp":"2026-02-07T09:08:02.079Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on the port: 8000","timestamp":"2026-02-07T09:08:08.820Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on the port: 8000","timestamp":"2026-02-07T09:08:08.826Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on the port: 8000","timestamp":"2026-02-07T09:08:13.041Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on the port: 8000","timestamp":"2026-02-07T09:08:13.112Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on the port: 8000","timestamp":"2026-02-07T09:08:16.043Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on the port: 8000","timestamp":"2026-02-07T09:08:16.083Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on the port: 8000","timestamp":"2026-02-07T09:10:31.872Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on the port: 8000","timestamp":"2026-02-07T09:10:31.873Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on the port: 8000","timestamp":"2026-02-07T09:10:49.126Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on the port: 8000","timestamp":"2026-02-07T09:10:49.170Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on the port: 8000","timestamp":"2026-02-07T09:10:53.573Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on the port: 8000","timestamp":"2026-02-07T09:10:53.574Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on the port: 8000","timestamp":"2026-02-07T09:10:55.359Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on the port: 8000","timestamp":"2026-02-07T09:10:55.384Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on the port: 8000","timestamp":"2026-02-07T09:11:01.550Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on the port: 8000","timestamp":"2026-02-07T09:11:01.572Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on the port: 8000","timestamp":"2026-02-07T09:11:04.938Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on the port: 8000","timestamp":"2026-02-07T09:11:04.988Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"PUT\",\"url\":\"/api/v1/tasks/6986f7d8aa34b0f1c720d8de/6986fc7937ef0ea2dfc3e831/st/6986fd3e37ef0ea2dfc3e835\",\"status\":\"404\",\"responseTime\":\"2.466\"}","timestamp":"2026-02-07T09:12:24.492Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"PUT\",\"url\":\"/api/v1/tasks/6986f7d8aa34b0f1c720d8de/6986fc7937ef0ea2dfc3e831/st/6986fd3e37ef0ea2dfc3e835\",\"status\":\"404\",\"responseTime\":\"1.351\"}","timestamp":"2026-02-07T09:13:26.504Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on the port: 8000","timestamp":"2026-02-07T09:13:52.357Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on the port: 8000","timestamp":"2026-02-07T09:13:52.377Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on the port: 8000","timestamp":"2026-02-07T09:14:49.899Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on the port: 8000","timestamp":"2026-02-07T09:14:49.913Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"PUT\",\"url\":\"/api/v1/tasks/6986f7d8aa34b0f1c720d8de/6986fc7937ef0ea2dfc3e831/st/6986fd3e37ef0ea2dfc3e835\",\"status\":\"400\",\"responseTime\":\"119.914\"}","timestamp":"2026-02-07T09:14:57.243Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on the port: 8000","timestamp":"2026-02-07T09:15:55.131Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on the port: 8000","timestamp":"2026-02-07T09:15:55.192Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"PUT\",\"url\":\"/api/v1/tasks/6986f7d8aa34b0f1c720d8de/6986fc7937ef0ea2dfc3e831/st/6986fd3e37ef0ea2dfc3e835\",\"status\":\"200\",\"responseTime\":\"246.246\"}","timestamp":"2026-02-07T09:16:21.025Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on the port: 8000","timestamp":"2026-02-07T09:17:18.986Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on the port: 8000","timestamp":"2026-02-07T09:17:19.012Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on the port: 8000","timestamp":"2026-02-07T09:17:20.958Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on the port: 8000","timestamp":"2026-02-07T09:17:20.970Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on the port: 8000","timestamp":"2026-02-07T09:17:26.988Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on the port: 8000","timestamp":"2026-02-07T09:17:27.029Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"DELETE\",\"url\":\"/api/v1/tasks/6986f7d8aa34b0f1c720d8de/st/6986fd3e37ef0ea2dfc3e835\",\"status\":\"400\",\"responseTime\":\"74.574\"}","timestamp":"2026-02-07T09:18:26.092Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on the port: 8000","timestamp":"2026-02-07T09:18:47.685Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on the port: 8000","timestamp":"2026-02-07T09:18:47.741Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"DELETE\",\"url\":\"/api/v1/tasks/6986f7d8aa34b0f1c720d8de/st/6986fd3e37ef0ea2dfc3e835\",\"status\":\"500\",\"responseTime\":\"125.554\"}","timestamp":"2026-02-07T09:18:53.971Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on the port: 8000","timestamp":"2026-02-07T09:19:12.315Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on the port: 8000","timestamp":"2026-02-07T09:19:12.363Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"DELETE\",\"url\":\"/api/v1/tasks/6986f7d8aa34b0f1c720d8de/st/6986fd3e37ef0ea2dfc3e835\",\"status\":\"500\",\"responseTime\":\"1377.738\"}","timestamp":"2026-02-07T09:19:15.024Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"DELETE\",\"url\":\"/api/v1/tasks/6986f7d8aa34b0f1c720d8de/st/6986fd3e37ef0ea2dfc3e835\",\"status\":\"500\",\"responseTime\":\"97.130\"}","timestamp":"2026-02-07T09:19:17.208Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on the port: 8000","timestamp":"2026-02-07T09:19:33.884Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on the port: 8000","timestamp":"2026-02-07T09:19:33.894Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on the port: 8000","timestamp":"2026-02-07T09:19:37.953Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on the port: 8000","timestamp":"2026-02-07T09:19:38.013Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"DELETE\",\"url\":\"/api/v1/tasks/6986f7d8aa34b0f1c720d8de/st/6986fd3e37ef0ea2dfc3e835\",\"status\":\"500\",\"responseTime\":\"127.629\"}","timestamp":"2026-02-07T09:19:46.533Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on the port: 8000","timestamp":"2026-02-07T09:20:53.317Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on the port: 8000","timestamp":"2026-02-07T09:20:53.337Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"DELETE\",\"url\":\"/api/v1/tasks/6986f7d8aa34b0f1c720d8de/st/6986fd3e37ef0ea2dfc3e835\",\"status\":\"400\",\"responseTime\":\"87.215\"}","timestamp":"2026-02-07T09:20:57.164Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on the port: 8000","timestamp":"2026-02-07T09:21:13.211Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on the port: 8000","timestamp":"2026-02-07T09:21:13.237Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on the port: 8000","timestamp":"2026-02-07T09:21:16.558Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on the port: 8000","timestamp":"2026-02-07T09:21:16.562Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"DELETE\",\"url\":\"/api/v1/tasks/6986f7d8aa34b0f1c720d8de/6986fc7937ef0ea2dfc3e831/st/6986fd3e37ef0ea2dfc3e835\",\"status\":\"404\",\"responseTime\":\"219.359\"}","timestamp":"2026-02-07T09:22:19.519Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"DELETE\",\"url\":\"/api/v1/tasks/6986f7d8aa34b0f1c720d8de/6986fc7937ef0ea2dfc3e831/st/6986fd9680bc131d054d4df1\",\"status\":\"200\",\"responseTime\":\"193.371\"}","timestamp":"2026-02-07T09:23:10.593Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on the port: 8000","timestamp":"2026-02-07T09:23:43.603Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on the port: 8000","timestamp":"2026-02-07T09:23:44.336Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on the port: 8000","timestamp":"2026-02-07T09:23:47.833Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on the port: 8000","timestamp":"2026-02-07T09:23:47.834Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on the port: 8000","timestamp":"2026-02-07T09:23:52.308Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on the port: 8000","timestamp":"2026-02-07T09:23:52.320Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"PUT\",\"url\":\"/api/v1/tasks/6986f7d8aa34b0f1c720d8de/6986fc7937ef0ea2dfc3e831/st/6986fd3e37ef0ea2dfc3e835\",\"status\":\"404\",\"responseTime\":\"556.018\"}","timestamp":"2026-02-07T09:25:52.071Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"PUT\",\"url\":\"/api/v1/tasks/6986f7d8aa34b0f1c720d8de/6986fc7937ef0ea2dfc3e831/st/6986fdec7961d2016dfc2902\",\"status\":\"200\",\"responseTime\":\"197.649\"}","timestamp":"2026-02-07T09:26:24.644Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"GET\",\"url\":\"/api/v1/tasks/6986f7d8aa34b0f1c720d8de\",\"status\":\"500\",\"responseTime\":\"48.885\"}","timestamp":"2026-02-07T09:27:18.144Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on the port: 8000","timestamp":"2026-02-07T09:27:37.595Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on the port: 8000","timestamp":"2026-02-07T09:27:37.632Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"GET\",\"url\":\"/api/v1/tasks/6986f7d8aa34b0f1c720d8de\",\"status\":\"200\",\"responseTime\":\"159.550\"}","timestamp":"2026-02-07T09:27:47.336Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on the port: 8000","timestamp":"2026-02-07T10:34:11.181Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on the port: 8000","timestamp":"2026-02-07T10:34:11.203Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on the port: 8000","timestamp":"2026-02-07T10:38:41.274Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on the port: 8000","timestamp":"2026-02-07T10:38:41.347Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on the port: 8000","timestamp":"2026-02-07T10:38:46.626Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on the port: 8000","timestamp":"2026-02-07T10:38:46.675Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/api/v1/notes/6986f7d8aa34b0f1c720d8de\",\"status\":\"200\",\"responseTime\":\"163.473\"}","timestamp":"2026-02-07T10:38:52.949Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on the port: 8000","timestamp":"2026-02-07T10:40:08.001Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on the port: 8000","timestamp":"2026-02-07T10:40:08.026Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on the port: 8000","timestamp":"2026-02-07T10:40:19.290Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on the port: 8000","timestamp":"2026-02-07T10:40:19.291Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on the port: 8000","timestamp":"2026-02-07T10:40:22.905Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on the port: 8000","timestamp":"2026-02-07T10:40:22.906Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on the port: 8000","timestamp":"2026-02-07T10:40:24.805Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on the port: 8000","timestamp":"2026-02-07T10:40:24.807Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on the port: 8000","timestamp":"2026-02-07T10:40:29.059Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on the port: 8000","timestamp":"2026-02-07T10:40:29.073Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on the port: 8000","timestamp":"2026-02-07T10:40:32.853Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on the port: 8000","timestamp":"2026-02-07T10:40:32.861Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on the port: 8000","timestamp":"2026-02-07T10:40:46.241Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on the port: 8000","timestamp":"2026-02-07T10:40:46.243Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on the port: 8000","timestamp":"2026-02-07T10:40:56.886Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on the port: 8000","timestamp":"2026-02-07T10:40:56.892Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on the port: 8000","timestamp":"2026-02-07T10:40:59.691Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on the port: 8000","timestamp":"2026-02-07T10:40:59.707Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on the port: 8000","timestamp":"2026-02-07T10:41:19.231Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on the port: 8000","timestamp":"2026-02-07T10:41:19.243Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on the port: 8000","timestamp":"2026-02-07T10:41:21.954Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on the port: 8000","timestamp":"2026-02-07T10:41:21.956Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on the port: 8000","timestamp":"2026-02-07T10:41:25.116Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on the port: 8000","timestamp":"2026-02-07T10:41:25.140Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on the port: 8000","timestamp":"2026-02-07T10:41:31.194Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on the port: 8000","timestamp":"2026-02-07T10:41:31.236Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on the port: 8000","timestamp":"2026-02-07T10:41:35.438Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on the port: 8000","timestamp":"2026-02-07T10:41:35.450Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"GET\",\"url\":\"/api/v1/notes/6986f7d8aa34b0f1c720d8de/n/6987163c0378878bc026d955\",\"status\":\"200\",\"responseTime\":\"265.563\"}","timestamp":"2026-02-07T10:42:37.408Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on the port: 8000","timestamp":"2026-02-07T10:42:53.321Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on the port: 8000","timestamp":"2026-02-07T10:42:53.421Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on the port: 8000","timestamp":"2026-02-07T10:42:59.172Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on the port: 8000","timestamp":"2026-02-07T10:42:59.175Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on the port: 8000","timestamp":"2026-02-07T10:43:25.869Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on the port: 8000","timestamp":"2026-02-07T10:43:25.876Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on the port: 8000","timestamp":"2026-02-07T10:43:28.828Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on the port: 8000","timestamp":"2026-02-07T10:43:28.828Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on the port: 8000","timestamp":"2026-02-07T10:43:50.987Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on the port: 8000","timestamp":"2026-02-07T10:43:50.988Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on the port: 8000","timestamp":"2026-02-07T10:43:58.713Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on the port: 8000","timestamp":"2026-02-07T10:43:58.777Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on the port: 8000","timestamp":"2026-02-07T10:44:03.148Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on the port: 8000","timestamp":"2026-02-07T10:44:05.333Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on the port: 8000","timestamp":"2026-02-07T10:44:12.574Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on the port: 8000","timestamp":"2026-02-07T10:44:12.590Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on the port: 8000","timestamp":"2026-02-07T10:44:17.674Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on the port: 8000","timestamp":"2026-02-07T10:44:17.686Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on the port: 8000","timestamp":"2026-02-07T10:44:22.221Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on the port: 8000","timestamp":"2026-02-07T10:44:22.220Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on the port: 8000","timestamp":"2026-02-07T10:44:45.384Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on the port: 8000","timestamp":"2026-02-07T10:44:45.395Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on the port: 8000","timestamp":"2026-02-07T10:44:47.933Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on the port: 8000","timestamp":"2026-02-07T10:44:47.969Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on the port: 8000","timestamp":"2026-02-07T10:48:56.966Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on the port: 8000","timestamp":"2026-02-07T10:48:57.014Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on the port: 8000","timestamp":"2026-02-07T10:50:00.441Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on the port: 8000","timestamp":"2026-02-07T10:50:00.471Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on the port: 8000","timestamp":"2026-02-07T10:50:05.739Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on the port: 8000","timestamp":"2026-02-07T10:50:05.762Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on the port: 8000","timestamp":"2026-02-07T10:50:09.632Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on the port: 8000","timestamp":"2026-02-07T10:50:09.672Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on the port: 8000","timestamp":"2026-02-07T10:50:11.500Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on the port: 8000","timestamp":"2026-02-07T10:50:11.500Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"PUT\",\"url\":\"/api/v1/notes/6986f7d8aa34b0f1c720d8de/n/6987163c0378878bc026d955\",\"status\":\"200\",\"responseTime\":\"211.891\"}","timestamp":"2026-02-07T10:50:13.578Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on the port: 8000","timestamp":"2026-02-07T10:50:30.931Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on the port: 8000","timestamp":"2026-02-07T10:50:30.950Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on the port: 8000","timestamp":"2026-02-07T10:51:00.154Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on the port: 8000","timestamp":"2026-02-07T10:51:00.163Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on the port: 8000","timestamp":"2026-02-07T10:51:01.694Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on the port: 8000","timestamp":"2026-02-07T10:51:01.694Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on the port: 8000","timestamp":"2026-02-07T10:51:21.761Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on the port: 8000","timestamp":"2026-02-07T10:51:21.777Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"GET\",\"url\":\"/api/v1/notes/6986f7d8aa34b0f1c720d8de\",\"status\":\"200\",\"responseTime\":\"189.485\"}","timestamp":"2026-02-07T10:52:13.175Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/api/v1/notes/6986f7d8aa34b0f1c720d8de\",\"status\":\"200\",\"responseTime\":\"112.223\"}","timestamp":"2026-02-07T10:53:15.238Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"GET\",\"url\":\"/api/v1/notes/6986f7d8aa34b0f1c720d8de\",\"status\":\"200\",\"responseTime\":\"132.144\"}","timestamp":"2026-02-07T10:53:20.661Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on the port: 8000","timestamp":"2026-02-07T10:53:48.596Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on the port: 8000","timestamp":"2026-02-07T10:53:48.609Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"DELETE\",\"url\":\"/api/v1/notes/6986f7d8aa34b0f1c720d8de/n/6987163c0378878bc026d955\",\"status\":\"200\",\"responseTime\":\"196.277\"}","timestamp":"2026-02-07T10:54:28.980Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on the port: 8000","timestamp":"2026-02-08T07:41:47.868Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"GET\",\"url\":\"/api/v1/auth/register\",\"status\":\"500\",\"responseTime\":\"17.753\"}","timestamp":"2026-02-08T07:41:54.141Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on the port: 8000","timestamp":"2026-02-08T07:43:36.600Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on the port: 8000","timestamp":"2026-02-08T07:44:22.855Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/api/v1/auth/register\",\"status\":\"500\",\"responseTime\":\"20.270\"}","timestamp":"2026-02-08T07:45:06.062Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/api/v1/auth/register\",\"status\":\"400\",\"responseTime\":\"13.402\"}","timestamp":"2026-02-08T07:46:34.437Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/api/v1/auth/register\",\"status\":\"500\",\"responseTime\":\"3860.525\"}","timestamp":"2026-02-08T07:49:45.187Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on the port: 8000","timestamp":"2026-02-08T07:51:24.460Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/api/v1/auth/register\",\"status\":\"409\",\"responseTime\":\"119.468\"}","timestamp":"2026-02-08T07:51:57.960Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/api/v1/auth/register\",\"status\":\"500\",\"responseTime\":\"3469.186\"}","timestamp":"2026-02-08T07:53:08.913Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on the port: 8000","timestamp":"2026-02-08T07:53:59.579Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on the port: 8000","timestamp":"2026-02-08T07:54:02.448Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/api/v1/auth/register\",\"status\":\"201\",\"responseTime\":\"9785.619\"}","timestamp":"2026-02-08T07:55:04.215Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"GET\",\"url\":\"/api/v1/healthcheck\",\"status\":\"200\",\"responseTime\":\"0.855\"}","timestamp":"2026-02-08T07:59:01.174Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/api/v1/auth/register\",\"status\":\"409\",\"responseTime\":\"56.828\"}","timestamp":"2026-02-08T07:59:01.365Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"GET\",\"url\":\"/api/v1/auth/verify-email/f7648930bf94a30c43b245614afb1c8a052b7c4a\",\"status\":\"400\",\"responseTime\":\"49.479\"}","timestamp":"2026-02-08T07:59:01.507Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/api/v1/auth/login\",\"status\":\"404\",\"responseTime\":\"49.056\"}","timestamp":"2026-02-08T07:59:01.627Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"GET\",\"url\":\"/api/v1/auth/current-user\",\"status\":\"401\",\"responseTime\":\"0.617\"}","timestamp":"2026-02-08T07:59:01.717Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/api/v1/auth/change-password\",\"status\":\"401\",\"responseTime\":\"1.158\"}","timestamp":"2026-02-08T07:59:01.801Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/api/v1/auth/refreshToken\",\"status\":\"404\",\"responseTime\":\"55.562\"}","timestamp":"2026-02-08T07:59:01.934Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/api/v1/auth/resend-email-verification\",\"status\":\"401\",\"responseTime\":\"4.777\"}","timestamp":"2026-02-08T07:59:02.036Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/api/v1/auth/logout\",\"status\":\"401\",\"responseTime\":\"3.705\"}","timestamp":"2026-02-08T07:59:02.130Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/api/v1/auth/logout\",\"status\":\"401\",\"responseTime\":\"3.595\"}","timestamp":"2026-02-08T07:59:02.236Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/api/v1/auth/logout\",\"status\":\"401\",\"responseTime\":\"4.326\"}","timestamp":"2026-02-08T07:59:02.285Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on the port: 8000","timestamp":"2026-02-08T08:07:45.756Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on the port: 8000","timestamp":"2026-02-08T08:07:50.222Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on the port: 8000","timestamp":"2026-02-08T08:07:55.494Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on the port: 8000","timestamp":"2026-02-08T08:08:30.079Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on the port: 8000","timestamp":"2026-02-08T08:08:42.663Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on the port: 8000","timestamp":"2026-02-08T08:08:50.608Z"}
