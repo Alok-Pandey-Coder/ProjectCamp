@@ -6,7 +6,7 @@ import { addProjectMember, createProject, deleteProjectById, getProjectById, lis
 const router = Router()
 
 router.route("/").get(auth, listUserProject);
-router.route('/').post(auth, roleBasedAuthorize(['admin']), createProject);
+router.route('/').post(auth, createProject);
 router.route('/:projectId').get(auth, roleBasedAuthorize(['admin', 'project-admin', 'member']), getProjectById);
 router.route('/:projectId').put(auth, roleBasedAuthorize(['admin']), updateProjectById);
 router.route('/:projectId').delete(auth, roleBasedAuthorize(['admin']), deleteProjectById);

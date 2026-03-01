@@ -101,7 +101,7 @@ const userSchema = new Schema(
     },
     role: {
       type: String,
-      default: 'member',
+      default: 'admin',
     },
   },
   { timestamps: true },

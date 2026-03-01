@@ -399,3 +399,28 @@
 {"level":"\u001b[32minfo\u001b[39m","message":"Server is running on the port: 8000","timestamp":"2026-02-08T08:08:30.079Z"}
 {"level":"\u001b[32minfo\u001b[39m","message":"Server is running on the port: 8000","timestamp":"2026-02-08T08:08:42.663Z"}
 {"level":"\u001b[32minfo\u001b[39m","message":"Server is running on the port: 8000","timestamp":"2026-02-08T08:08:50.608Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on the port: 8000","timestamp":"2026-03-01T10:10:38.197Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/api/v1/auth/register\",\"status\":\"409\",\"responseTime\":\"155.044\"}","timestamp":"2026-03-01T10:11:35.873Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/api/v1/auth/register\",\"status\":\"201\",\"responseTime\":\"11018.655\"}","timestamp":"2026-03-01T10:12:21.893Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/api/v1/auth/login\",\"status\":\"200\",\"responseTime\":\"261.551\"}","timestamp":"2026-03-01T10:12:42.285Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/api/v1/projects/\",\"status\":\"403\",\"responseTime\":\"190.226\"}","timestamp":"2026-03-01T10:13:04.945Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on the port: 8000","timestamp":"2026-03-01T10:17:12.972Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/api/v1/projects/\",\"status\":\"200\",\"responseTime\":\"487.401\"}","timestamp":"2026-03-01T10:17:54.438Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on the port: 8000","timestamp":"2026-03-01T10:20:01.608Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/api/v1/auth/register\",\"status\":\"201\",\"responseTime\":\"10071.691\"}","timestamp":"2026-03-01T10:21:23.094Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/api/v1/auth/login\",\"status\":\"200\",\"responseTime\":\"262.392\"}","timestamp":"2026-03-01T10:21:33.856Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/api/v1/auth/register\",\"status\":\"500\",\"responseTime\":\"5271.264\"}","timestamp":"2026-03-01T10:22:21.707Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/api/v1/auth/register\",\"status\":\"201\",\"responseTime\":\"10284.017\"}","timestamp":"2026-03-01T10:22:42.444Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/api/v1/auth/login\",\"status\":\"200\",\"responseTime\":\"263.018\"}","timestamp":"2026-03-01T10:23:05.016Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/api/v1/projects/6986cca8507ce47cfcd83ad8/members\",\"status\":\"403\",\"responseTime\":\"138.312\"}","timestamp":"2026-03-01T10:24:01.336Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/api/v1/projects/69a4125242132d01d49935a6/members\",\"status\":\"201\",\"responseTime\":\"604.244\"}","timestamp":"2026-03-01T10:24:46.748Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/api/v1/auth/login\",\"status\":\"200\",\"responseTime\":\"306.453\"}","timestamp":"2026-03-01T10:25:42.846Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/api/v1/projects/69a4125242132d01d49935a6/members\",\"status\":\"403\",\"responseTime\":\"168.095\"}","timestamp":"2026-03-01T10:26:28.343Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/api/v1/projects/69a4125242132d01d49935a6/members\",\"status\":\"403\",\"responseTime\":\"187.433\"}","timestamp":"2026-03-01T10:26:58.315Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/api/v1/projects/69a4125242132d01d49935a6/members\",\"status\":\"403\",\"responseTime\":\"188.214\"}","timestamp":"2026-03-01T10:28:06.275Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/api/v1/projects/69a4125242132d01d49935a6/members\",\"status\":\"403\",\"responseTime\":\"113.898\"}","timestamp":"2026-03-01T10:28:30.207Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/api/v1/projects/69a4125242132d01d49935a6/members\",\"status\":\"403\",\"responseTime\":\"117.165\"}","timestamp":"2026-03-01T10:29:42.820Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/api/v1/projects/69a4125242132d01d49935a6/members\",\"status\":\"403\",\"responseTime\":\"202.814\"}","timestamp":"2026-03-01T10:29:47.296Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/api/v1/auth/login\",\"status\":\"401\",\"responseTime\":\"305.841\"}","timestamp":"2026-03-01T10:33:08.808Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/api/v1/auth/login\",\"status\":\"200\",\"responseTime\":\"265.983\"}","timestamp":"2026-03-01T10:33:16.537Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/api/v1/projects/69a4125242132d01d49935a6/members\",\"status\":\"403\",\"responseTime\":\"240.703\"}","timestamp":"2026-03-01T10:33:48.360Z"}
